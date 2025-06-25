@@ -7,7 +7,7 @@ print(a)
 
 def subtraction(a,b,w):
     d = a-b-w
-    return a
+    return d
 
 def multiplication(a,b,c):
     return a*b*c
