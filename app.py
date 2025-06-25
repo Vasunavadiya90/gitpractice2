@@ -5,12 +5,12 @@ a  = addition(5,3,2)
 print(a)
 
 
-def subtraction(a,b,d):
-    e = a-b-d
-    return e
+def subtraction(a,b,c):
+    d = a-b-c
+    return a
 
-def multiplication(a,b,d):
-    return a*b*d
+def multiplication(a,b,c):
+    return a*b*c
 
 
 def division(a,b,c):
