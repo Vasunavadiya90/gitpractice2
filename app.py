@@ -5,8 +5,8 @@ a  = addition(5,3,2)
 print(a)
 
 
-def subtraction(a,b,c):
-    d = a-b-c
+def subtraction(a,b,r):
+    d = a-b-r
     return a
 
 def multiplication(a,b,c):
